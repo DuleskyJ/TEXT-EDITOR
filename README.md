@@ -10,7 +10,7 @@ J.A.T.E is a Progressive Web Application (PWA) that runs in the browser. It meet
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technical Acceptance Criteria](#technical-acceptance-criteria)
-- [Walkthrough Video](#walkthrough-video)
+- [Screenshot](#Screenshot)
 - [License](#license)
 
 ## Installation
@@ -47,8 +47,8 @@ You can install the application as a PWA by clicking on the "Install" button.
 - The application has a generated manifest.json using the WebpackPwaManifest plugin.
 - The application can be installed as a Progressive Web Application.
 
-## Walkthrough Video
-
+## Screenshot
+![Screenshot (54)](https://github.com/DuleskyJ/TEXT-EDITOR/assets/153566037/c5850da3-2362-4eb1-8412-c88b351c5662)
 
 ## License
 This project is licensed under the MIT License.
